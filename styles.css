@@ -42,6 +42,10 @@ section:nth-child(even) {
   background-color: #ddd;
 }
 
+h1 {
+    font-size: 70px;
+}
+
 #signUp {
     margin-right: 1%;
 }
