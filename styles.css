@@ -19,6 +19,7 @@ footer {
 
 nav {
   position: fixed;
+  text-align: right;
   top: 0;
   left: 0;
   right: 0;
@@ -40,4 +41,13 @@ section {
 section:nth-child(even) {
   background-color: #ddd;
 }
+
+#signUp {
+    margin-right: 1%;
+}
+
+#signIn {
+    margin-right: 1%;
+}
+
   
